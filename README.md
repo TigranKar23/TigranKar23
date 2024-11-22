@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on PlanetFibers.com, BigDb.com, Optowire.com<br><br>I’m currently learning C, C++<br><br>
+Backend Developer | C# .NET | Node.js | Nest.js | Python
+Building scalable APIs and reliable systems with clean, efficient code. Passionate about solving complex problems and continuous learning. 🚀
 
 
 ## 🌐 Socials:
